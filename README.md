@@ -48,5 +48,5 @@ pip install quspin openfermion qiskit qiskit-aer physics-tenpy
 ## References
 
 1. Chowdhury et al., Applied Physics Reviews (2026)
-2. Lin, Gharibyan & Su, arXiv:2407.xxxxx (2024)
+2. Lin, Gharibyan & Su (2024)
 3. Alam et al., Phasecraft (2025)
