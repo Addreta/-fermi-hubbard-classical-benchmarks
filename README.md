@@ -31,10 +31,10 @@ L=4, half-filling), enabling direct comparison.
 
 ## Key Results
 
--Trotter at δt=0.1 (2nd order) is essentially exact at U/t=2 for L=4: Néel error ≤ 3.4×10⁻³ for t ≤ 6
--TDVP matches the exact result (to within ~10⁻⁵ at t=4) only at χ=16, the full bond dimension for L=4; below that the error falls slowly (0.67 → 0.10 from χ=1 to 8)
--Pauli path converges systematically for ε ≤ 10⁻²: the error at t=3 falls from 0.36 to ~4×10⁻⁴ (ε=10⁻² → 10⁻⁵)
--Only the Trotter error was swept over U/t. It grows with U/t, as does the commutator norm ‖[H_hop, H_int]‖ ∝ U; TDVP and Pauli path were run at U/t=2 only
+- Trotter at δt=0.1 (2nd order) is essentially exact at U/t=2 for L=4: Néel error ≤ 3.4×10⁻³ for t ≤ 6
+- TDVP matches the exact result (to within ~10⁻⁵ at t=4) only at χ=16, the full bond dimension for L=4; below that the error falls slowly (0.67 → 0.10 from χ=1 to 8)
+- Pauli path converges systematically for ε ≤ 10⁻²: the error at t=3 falls from 0.36 to ~4×10⁻⁴ (ε=10⁻² → 10⁻⁵)
+- Only the Trotter error was swept over U/t. It grows with U/t, as does the commutator norm ‖[H_hop, H_int]‖ ∝ U; TDVP and Pauli path were run at U/t=2 only
 
 ## Notebooks
 
